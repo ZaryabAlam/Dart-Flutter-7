@@ -1,0 +1,10 @@
+1. Download FLutter zip
+2. Extract zip (in C:/)
+3. Open Environment Variable
+4. Update 'path' variable to C:\flutter\bin. 
+5. Command prompt "flutter"
+6. Download Android Studio
+7. Download VS Code
+8. Install VS Code Extension (Flutter/Dart)
+9. Command prompt "flutter doctor --android-licenses"
+10.Command prompt "flutter doctor"
